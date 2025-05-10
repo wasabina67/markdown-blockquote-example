@@ -24,3 +24,19 @@ Markdown blockquote example
 
 > [!IMPORTANT]
 > IMPORTANT
+
+```markdown
+> [!WARNING]
+> WARNING
+```
+
+> [!WARNING]
+> WARNING
+
+```markdown
+> [!CAUTION]
+> CAUTION
+```
+
+> [!CAUTION]
+> CAUTION
