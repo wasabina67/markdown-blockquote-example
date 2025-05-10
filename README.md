@@ -8,3 +8,19 @@ Markdown blockquote example
 
 > [!NOTE]
 > NOTE
+
+```markdown
+> [!TIP]
+> TIP
+```
+
+> [!TIP]
+> TIP
+
+```markdown
+> [!IMPORTANT]
+> IMPORTANT
+```
+
+> [!IMPORTANT]
+> IMPORTANT
